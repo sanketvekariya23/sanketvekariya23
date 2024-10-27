@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketvekariya23&label=Profile%20views&color=0e75b6&style=flat" alt="sanketvekariya23" /> </p>
 
-- 🌱 I’m currently learning **machine learning.**
+- 🌱 I’m jr. Dotnet Devloper at Kautilyam.**
 
 - 📫 How to reach me **sanketvekariya237@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/sanket-vekariya-00b85a23a/overlay/1718164179983/single-media-viewer?type=DOCUMENT&profileId=ACoAADuSGIsBpLICDrzkk1wcbSwNACb60hD-Svo&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRJ3AjA0YRl%2B3nucnv3iO2A%3D%3D](https://www.linkedin.com/in/sanket-vekariya-00b85a23a/overlay/1718164179983/single-media-viewer?type=DOCUMENT&profileId=ACoAADuSGIsBpLICDrzkk1wcbSwNACb60hD-Svo&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRJ3AjA0YRl%2B3nucnv3iO2A%3D%3D)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
